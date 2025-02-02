@@ -1,0 +1,33 @@
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+
+# Logs and output
+*.log
+logs/
+debug.log
+
+# Virtual environment
+venv/
+env/
+.virtualenv/
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.iml
+
+# Credentials and sensitive data
+config.json
+secrets.json
+*.pem
+*.crt
+*.key
